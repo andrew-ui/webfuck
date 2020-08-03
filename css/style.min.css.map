@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACE,gBAAgB,CAChB,mBAAS,CAAT,oBAAS,CAAT,mBAAS,CAAT,YAAa","file":"style.min.css","sourcesContent":["body{\r\n  background:green;\r\n  display: flex;\r\n}\r\n"]}
